@@ -1,0 +1,22 @@
+{
+  "name": "MuleTrace AI - Mule Account Network Detector",
+  "short_name": "MuleTrace AI",
+  "description": "AI-Powered Mule Account Network Detection & Financial Crime Intelligence Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060D17",
+  "theme_color": "#060D17",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
